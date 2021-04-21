@@ -1,0 +1,22 @@
+{
+    "Usuarios": [
+        {
+            "id": 1,
+            "primer_apellido": "Perez",
+            "segundo_apellido": "Seras",
+            "nombre": "Adan",
+            "genero": "Masculino",
+            "username": "apese",
+            "password": "827ccb0eea8a706c4c34a16891f84e7b"
+        },
+       {
+            "id": 2,
+            "primer_apellido": "Perez",
+            "segundo_apellido": "Dolores",
+            "nombre": "Eva",
+            "genero": "Femenino",
+            "username": "epedo",
+            "password": "e10adc3949ba59abbe56e057f20f883e"
+        }
+    ]
+}

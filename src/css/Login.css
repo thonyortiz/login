@@ -1,13 +1,15 @@
-.containerPrincipal {
+.container_1 {
     position: absolute;
       left: 50%;
       top: 50%;
       transform: translate(-50%, -50%);
       border: 1px solid blue;
       padding: 40px;
-      background-color: white;
+      background-color: #ffffff;
+      border-radius: 20px;
   }
   
-  .containerSecundario{
+  .container_2{
     text-align: center;
+    border-radius: 300px;
   }
